@@ -1,0 +1,16 @@
+{
+  "resourceName": "postagram",
+  "policyUUID": "4f3f1ad2",
+  "bucketName": "postagram226017e7f621474ca113842addf71a6a",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
